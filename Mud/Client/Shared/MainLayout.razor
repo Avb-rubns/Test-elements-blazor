@@ -1,0 +1,67 @@
+﻿@inherits LayoutComponentBase
+
+<MudThemeProvider  Theme="currentTheme" />
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <MudAppBar Elevation="1">
+        <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
+        <MudText Typo="Typo.h5" Class="ml-3">Application</MudText>
+        <div class="flex-grow-1" /> <!--MudSpacer /-->
+        <MudButton OnClick="@((e) => DarkMode())"  Edge="Edge.End">Toggle Dark/Light Mode</MudButton>
+    </MudAppBar>
+    <MudDrawer @bind-Open="_drawerOpen" ClipMode="DrawerClipMode.Always" Elevation="2">
+        <NavMenu/>
+    </MudDrawer>
+    <MudMainContent>
+        <div style="padding: 1rem;">
+            @Body
+        </div>
+    </MudMainContent>
+</MudLayout>
+
+@code {
+    bool _drawerOpen = true;
+    protected override void OnInitialized()
+    {
+        currentTheme = defaultTheme;
+    }
+
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+
+    void DarkMode()
+    {
+        if (currentTheme == defaultTheme)
+        {
+            currentTheme = darkTheme;
+        }
+        else
+        {
+            currentTheme = defaultTheme;
+        }
+    }
+
+    MudTheme currentTheme = new MudTheme();
+    MudTheme defaultTheme = new MudTheme()
+    {
+        Palette = new Palette()
+        {
+            Black = "#272c34"
+        }
+    };
+
+    MudTheme darkTheme = new MudTheme()
+    {
+        Palette = new Palette()
+        {
+            Primary = "#B21925",
+            Secondary = Colors.Green.Accent4,
+            AppbarBackground = "#B21925",
+            AppbarText = "#FFFF"
+        }
+    };
+}

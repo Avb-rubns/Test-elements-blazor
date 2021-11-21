@@ -1,0 +1,11 @@
+C:\Users\rubns\source\repos\Mud\Mud\Shared\bin\Debug\net5.0\Mud.Shared.deps.json
+C:\Users\rubns\source\repos\Mud\Mud\Shared\bin\Debug\net5.0\Mud.Shared.dll
+C:\Users\rubns\source\repos\Mud\Mud\Shared\bin\Debug\net5.0\ref\Mud.Shared.dll
+C:\Users\rubns\source\repos\Mud\Mud\Shared\bin\Debug\net5.0\Mud.Shared.pdb
+C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.AssemblyInfoInputs.cache
+C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.AssemblyInfo.cs
+C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.dll
+C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\ref\Mud.Shared.dll
+C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.pdb
