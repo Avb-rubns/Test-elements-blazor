@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v7IBdiOcmO68UAt37SUdNUTWPq85ejorg74/mlLDvhkDALKVsrBGMu4h62co+hyEaJ9FgfagkCLjHTqotFC7jQ==",
+  "dgSpecHash": "ep7YdQAWiuLxH5ATVIUvmnChv8IO0d5nu6TLreEsiHxkUMrE5Ux5SlZ4ZqzyUf+ssEIUFLXfqIKdgJIpt186mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Server\\Mud.Server.csproj",
+  "projectFilePath": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Server\\Mud.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rubns\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.11\\microsoft.aspnetcore.authorization.5.0.11.nupkg.sha512",
     "C:\\Users\\rubns\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.11\\microsoft.aspnetcore.components.5.0.11.nupkg.sha512",

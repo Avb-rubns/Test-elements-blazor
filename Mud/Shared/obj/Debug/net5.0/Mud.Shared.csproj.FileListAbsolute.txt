@@ -9,3 +9,15 @@ C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.csproj.Co
 C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.dll
 C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\ref\Mud.Shared.dll
 C:\Users\rubns\source\repos\Mud\Mud\Shared\obj\Debug\net5.0\Mud.Shared.pdb
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\bin\Debug\net5.0\Mud.Shared.deps.json
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\bin\Debug\net5.0\Mud.Shared.dll
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\bin\Debug\net5.0\ref\Mud.Shared.dll
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\bin\Debug\net5.0\Mud.Shared.pdb
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\obj\Debug\net5.0\Mud.Shared.csproj.AssemblyReference.cache
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\obj\Debug\net5.0\Mud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\obj\Debug\net5.0\Mud.Shared.AssemblyInfoInputs.cache
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\obj\Debug\net5.0\Mud.Shared.AssemblyInfo.cs
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\obj\Debug\net5.0\Mud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\obj\Debug\net5.0\Mud.Shared.dll
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\obj\Debug\net5.0\ref\Mud.Shared.dll
+C:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Shared\obj\Debug\net5.0\Mud.Shared.pdb

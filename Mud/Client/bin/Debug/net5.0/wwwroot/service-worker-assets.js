@@ -9,7 +9,7 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     },
     {
-      "hash": "sha256-Ywsxi5cDoFH0QPgoxmmKJu1HDidlepOOxR9VNLWpklM=",
+      "hash": "sha256-KE0+\/Oo+f0D99N4nHUd4yX5+QAYthpUVePahg\/k1Ilw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -797,19 +797,19 @@
       "url": "_framework\/dotnet.5.0.12.js"
     },
     {
-      "hash": "sha256-agngu0Aikd8yQ1gd6Hqz0cIWYsbvt\/DTpJHKxmVR1Mg=",
+      "hash": "sha256-qQ7L80\/j4o+r+V49AXkfhdea5MF40l9RrgAUlTffHqc=",
       "url": "_framework\/Mud.Shared.dll"
     },
     {
-      "hash": "sha256-7OdlPCQQyypz+Nj+TR1NJWXsto1l5sLsC39j2dioC1I=",
+      "hash": "sha256-FleDe30KRW9LaHP0H0p1gT7SUJgAzGxnOzyiK1Y1cb0=",
       "url": "_framework\/Mud.Shared.pdb"
     },
     {
-      "hash": "sha256-MBjFAfvhegiYnOwocSBHiCwOhy6EtlbRFD1DZRErogE=",
+      "hash": "sha256-g9RrDbzRzwEaR91pp2iJ1G45aLLj29wPq9ZzkPSOh\/8=",
       "url": "_framework\/Mud.Client.dll"
     },
     {
-      "hash": "sha256-d28u4PUAhJsBfxegSbMcWyGyRFpPLZLclEnturgvkvA=",
+      "hash": "sha256-zZYrUhj0rzEdHID5A+7OlzoGG1MUan4sk61Y\/GesurQ=",
       "url": "_framework\/Mud.Client.pdb"
     },
     {
@@ -1601,7 +1601,7 @@
       "url": "_framework\/dotnet.5.0.12.js.gz"
     },
     {
-      "hash": "sha256-esHA4doi1Na7YCzqG9YMPwVqXjLLlQBN7ZYufLcQ42I=",
+      "hash": "sha256-IbfKpOMujDp0VXLezDQEnuf1BnMqSiBI933QAb7oEbk=",
       "url": "_framework\/Mud.Shared.dll.gz"
     },
     {
@@ -1669,5 +1669,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "FJPDLqsH"
+  "version": "ffT515JN"
 };

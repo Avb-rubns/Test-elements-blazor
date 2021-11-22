@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Client\\Mud.Client.csproj": {}
+    "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Client\\Mud.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Client\\Mud.Client.csproj": {
+    "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Client\\Mud.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Client\\Mud.Client.csproj",
+        "projectUniqueName": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Client\\Mud.Client.csproj",
         "projectName": "Mud.Client",
-        "projectPath": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Client\\Mud.Client.csproj",
+        "projectPath": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Client\\Mud.Client.csproj",
         "packagesPath": "C:\\Users\\rubns\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Client\\obj\\",
+        "outputPath": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\rubns\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -34,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Shared\\Mud.Shared.csproj": {
-                "projectPath": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Shared\\Mud.Shared.csproj"
+              "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Shared\\Mud.Shared.csproj": {
+                "projectPath": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Shared\\Mud.Shared.csproj"
               }
             }
           }
@@ -98,22 +96,20 @@
         }
       }
     },
-    "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Shared\\Mud.Shared.csproj": {
+    "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Shared\\Mud.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Shared\\Mud.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Shared\\Mud.Shared.csproj",
         "projectName": "Mud.Shared",
-        "projectPath": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Shared\\Mud.Shared.csproj",
+        "projectPath": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Shared\\Mud.Shared.csproj",
         "packagesPath": "C:\\Users\\rubns\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\rubns\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

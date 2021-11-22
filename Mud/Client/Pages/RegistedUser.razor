@@ -9,8 +9,6 @@
             {
                 <!--Porque con i no se sale de rango?-->
                 var localindex = i;
-                Console.WriteLine($"Tam de razor for{info[i].Name}");
-                Console.WriteLine($"Tam de razor for{localindex},status{status[localindex]} ");
                 <MudItem xs="12">
                     <MudPaper>
                         <EditForm Model="@userModel" OnValidSubmit="@(()=> OnValidSubmit(info[localindex]))">
@@ -19,7 +17,6 @@
                                     <MudTextField T="string" @bind-Value="@info[localindex].Name" ReadOnly="@(status[localindex])" Label="Name" />
                                     <MudTextField T="string" @bind-Value="@info[localindex].Email" ReadOnly="@(status[localindex])" Label="Email" />
                                     <MudTextField T="string" @bind-Value="@info[localindex].Username" ReadOnly="@(status[localindex])" Label="Username" />
-                                    <MudText Typo="Typo.h6" Style="margin:2px 4px 2px 4px;" Align="Align.Center">@status[localindex]</MudText>
                                 </MudCardContent>
                                 <MudCardActions>
                                     <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="@(()=>ChangeInfoUser(localindex))" Class="ml-auto">Editar</MudButton>

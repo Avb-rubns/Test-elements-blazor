@@ -13,77 +13,77 @@ namespace Mud.Client.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 1 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 2 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 3 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 4 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 5 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 6 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 7 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 8 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 9 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using Mud.Client;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 10 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using Mud.Client.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 11 "C:\Users\rubns\source\repos\Mud\Mud\Client\_Imports.razor"
+#line 11 "c:\Users\rubns\Documents\mud\Test-elements-blazor\Mud\Client\_Imports.razor"
 using MudBlazor;
 
 #line default
@@ -97,52 +97,6 @@ using MudBlazor;
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 51 "C:\Users\rubns\source\repos\Mud\Mud\Client\Pages\Counter.razor"
-      
-
-    int _papers = 7;
-    int papers { get { return _papers; } set { UpdatePapers(value); } }
-
-    int[] breaks = new int[7] { 3, 4, 2, 3, 3, 2, 4 };
-
-    Justify justification = Justify.FlexStart;
-
-    void UpdatePapers(int value)
-    {
-
-        int[] newbreaks = Enumerable.Repeat(3, value).ToArray();
-
-        for (int i = 0; i < newbreaks.Length; i++)
-        {
-            if (i < breaks.Length)
-            {
-                newbreaks[i] = breaks[i];
-            }
-        }
-
-        breaks = newbreaks;
-
-        _papers = value;
-
-        StateHasChanged();
-    }
-
-    void UpdateBreaks(int index, int changeamount)
-    {
-        List<int> newbreaks = breaks.ToList();
-
-        newbreaks[index] = newbreaks[index] += changeamount;
-
-        breaks = newbreaks.ToArray();
-
-        StateHasChanged();
-    }
-
-
-#line default
-#line hidden
-#nullable disable
     }
 }
 #pragma warning restore 1591

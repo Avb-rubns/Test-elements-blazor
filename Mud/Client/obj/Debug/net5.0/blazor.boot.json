@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-+dB3Q0YubUPF1oZDMVZn6ZCiRkzRomtLoq51T5FocJk=",
       "netstandard.dll": "sha256-dOHF0zANIyA4WS496iWrAkTuEFWSWrXJjZj2pQQHrMA=",
       "System.Private.CoreLib.dll": "sha256-C96+zv+mWW0XzMG520oRgAG1lHVY8xzWGc6oc6rFjws=",
-      "Mud.Shared.dll": "sha256-agngu0Aikd8yQ1gd6Hqz0cIWYsbvt\/DTpJHKxmVR1Mg=",
-      "Mud.Client.dll": "sha256-MBjFAfvhegiYnOwocSBHiCwOhy6EtlbRFD1DZRErogE="
+      "Mud.Shared.dll": "sha256-qQ7L80\/j4o+r+V49AXkfhdea5MF40l9RrgAUlTffHqc=",
+      "Mud.Client.dll": "sha256-g9RrDbzRzwEaR91pp2iJ1G45aLLj29wPq9ZzkPSOh\/8="
     },
     "lazyAssembly": null,
     "pdb": {
-      "Mud.Shared.pdb": "sha256-7OdlPCQQyypz+Nj+TR1NJWXsto1l5sLsC39j2dioC1I=",
-      "Mud.Client.pdb": "sha256-d28u4PUAhJsBfxegSbMcWyGyRFpPLZLclEnturgvkvA="
+      "Mud.Shared.pdb": "sha256-FleDe30KRW9LaHP0H0p1gT7SUJgAzGxnOzyiK1Y1cb0=",
+      "Mud.Client.pdb": "sha256-zZYrUhj0rzEdHID5A+7OlzoGG1MUan4sk61Y\/GesurQ="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-ir9YCVnnk7popgsYUkvitfGA4WpkP1ydPh\/ENHnxGys=",

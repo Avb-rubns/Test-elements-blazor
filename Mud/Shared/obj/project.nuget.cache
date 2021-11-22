@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SOehQNkp7dLP3eflU064Ccro+7D2IQI5bJBBHkh1V000B1V0MddrDgAeHXoKxp9fjLLiAyxo6UeZo0PyzjACjw==",
+  "dgSpecHash": "geS8Qh9iaflKTHLTbZbz1imz1cV/J+zwbezyWAL4uwvhsJbaOqeDdqUqphDCKgH6LDAMHOX9Awghx/2GRJb6CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rubns\\source\\repos\\Mud\\Mud\\Shared\\Mud.Shared.csproj",
+  "projectFilePath": "C:\\Users\\rubns\\Documents\\mud\\Test-elements-blazor\\Mud\\Shared\\Mud.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

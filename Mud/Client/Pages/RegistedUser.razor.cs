@@ -19,7 +19,6 @@ namespace Mud.Client.Pages
         bool[] status;
         public EditContext Context;
 
-        public bool success;
         protected override void OnInitialized()
         {
             info = Utilitis.FakeInfo();
